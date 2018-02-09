@@ -1,0 +1,15 @@
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\bin\Debug\netcoreapp2.0\debian.8-x64\libhostpolicy.so
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\bin\Debug\netcoreapp2.0\debian.8-x64\libhostfxr.so
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\bin\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\bin\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api.dll.config
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\bin\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api.deps.json
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\bin\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api.runtimeconfig.json
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\bin\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api.runtimeconfig.dev.json
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\bin\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api.dll
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\bin\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api.pdb
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\obj\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api.csproj.fake-dotnetcore-api.dll.config
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\obj\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\obj\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api.AssemblyInfoInputs.cache
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\obj\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api.AssemblyInfo.cs
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\obj\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api.dll
+C:\Users\Jeremy Morgan\repos\fake-dotnetcore-api\obj\Debug\netcoreapp2.0\debian.8-x64\fake-dotnetcore-api.pdb
